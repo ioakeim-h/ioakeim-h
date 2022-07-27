@@ -1,7 +1,8 @@
 ### Hey, [Ioakeim](https://ioakeim-h.github.io/) here :wave:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]([https://www.linkedin.com/](https://www.linkedin.com/in/ioakeim-h/))
 &nbsp;
+
 
 <!--
 **ioakeim-h/ioakeim-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
