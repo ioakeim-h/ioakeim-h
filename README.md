@@ -1,7 +1,7 @@
-### Hi there! :wave: I'm [Ioakeim](https://ioakeim-h.github.io/)
+### Hi there! :wave: I'm [Ioakeim](https://ioakeim-h.github.io/), but friends call me Akis :slightly_smiling_face:
 
 
-### :mechanical_arm: I'm a self-taught programmer and a data science consultant
+### :robot: I'm a data science consultant
 
 <!--
 **ioakeim-h/ioakeim-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
