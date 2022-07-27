@@ -3,7 +3,7 @@
 [https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/ioakeim-h/)
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ioakeim.h@gmail.com](ioakeim.h@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ioakeim.h@gmail.com)
 
 
 
