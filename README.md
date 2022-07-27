@@ -1,9 +1,5 @@
 ### Hey, [Ioakeim](https://ioakeim-h.github.io/) here :wave:
 
-[https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/ioakeim-h/)
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ioakeim.h@gmail.com)
 
 
 
