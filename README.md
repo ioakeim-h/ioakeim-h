@@ -1,4 +1,4 @@
-### Hi there! :wave: I'm Ioakeim, a [data science] (https://ioakeim-h.github.io/) consultant
+### Hi there! :wave: I'm Ioakeim, a [data science](https://ioakeim-h.github.io/) consultant
 
 
 <!--
