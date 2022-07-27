@@ -1,6 +1,6 @@
 ### Hey, [Ioakeim](https://ioakeim-h.github.io/) here :wave:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]([https://www.linkedin.com/](https://www.linkedin.com/in/ioakeim-h/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ioakeim-h/)
 &nbsp;
 
 
