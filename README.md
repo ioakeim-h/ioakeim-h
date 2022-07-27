@@ -1,4 +1,4 @@
-### Hi there! :wave: I'm [Ioakeim](https://ioakeim-h.github.io/), but friends call me Akis :slightly_smiling_face:
+### Hi there! :wave: I'm [Ioakeim](https://ioakeim-h.github.io/), a.k.a Akis :grin:
 
 
 ### :robot: I'm a data science consultant
