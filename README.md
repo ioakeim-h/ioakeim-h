@@ -5,9 +5,9 @@
 I'm a **data science** consultant
 :point_right: Check out my [Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
 
-I can work with:
+#### I can work with:
 ---
-[!Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <!--
 **ioakeim-h/ioakeim-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
