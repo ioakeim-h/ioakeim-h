@@ -2,7 +2,7 @@ Hey, [Ioakeim](https://ioakeim-h.github.io/) here :wave:
 ---
 I'm a **data science** consultant :point_right: check out my [work!](https://ioakeim-h.github.io/)
 
-[Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
+
 
 <br>
 
@@ -23,11 +23,9 @@ I have **experience** with:
 
 <br>
 
-Take a look at some of my **projects** on
-[![GitHub-pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://ioakeim-h.github.io/)
-
-<br>
-
-You can find me on
+You can find me on:
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioakeim-h/)
 
+
+Don't forget to take a look at my [Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
