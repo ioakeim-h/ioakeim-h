@@ -4,7 +4,7 @@
 ---
 I'm a **data science** consultant
 :point_right: Check out my [Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
----
+
 
 
 <!--
