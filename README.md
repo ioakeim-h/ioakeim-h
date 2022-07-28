@@ -4,13 +4,11 @@ I'm a **data science** consultant
 :point_right: check out my [Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
 
 <br>
-<br>
 
 I work with:
 ---
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<br>
 <br>
 
 Find me on:
