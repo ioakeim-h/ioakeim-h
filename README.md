@@ -1,6 +1,8 @@
 Hey, [Ioakeim](https://ioakeim-h.github.io/) here :wave:
 ---
-I'm a **data science** consultant :point_right: check out my [Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
+I'm a **data science** consultant :point_right: check out my [work!](https://ioakeim-h.github.io/)
+
+[Machine Learning Tutorials](https://github.com/ioakeim-h/Machine-Learning-Tutorials) repo!
 
 <br>
 
