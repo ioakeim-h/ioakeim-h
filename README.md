@@ -1,6 +1,6 @@
 Hey, Ioakeim here :wave:
 ---
-I'm a **data science** consultant :point_right: check out my **[Data Engineering](https://github.com/ioakeim-h/Data-Engineering)** repo!
+I work with data :point_right: check out my **[Data Engineering](https://github.com/ioakeim-h/Data-Engineering)** repo!
 
 <br>
 
