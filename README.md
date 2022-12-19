@@ -1,6 +1,6 @@
 Hey, Ioakeim here :wave:
 ---
-I work with data :point_right: check out my **[Data Engineering](https://github.com/ioakeim-h/Data-Engineering)** repo!
+I am a data professional :point_right: check out my **[Data Engineering](https://github.com/ioakeim-h/Data-Engineering)** repo!
 
 <br>
 
