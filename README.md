@@ -1,8 +1,6 @@
 Hey, Ioakeim here :wave:
----
-I work with data :point_right: check out **[DataGlitch](https://github.com/ioakeim-h/DataGlitch)** 
-
-If you are interested in data cleaning have a look at my **[Data Engineering](https://github.com/ioakeim-h/Data-Engineering)** repo!
+--- 
+If you are interested in data cleaning check out **[DataGlitch](https://github.com/ioakeim-h/DataGlitch)** and have a look at my **[Data Engineering](https://github.com/ioakeim-h/Data-Engineering)** repo!
 
 <br>
 
